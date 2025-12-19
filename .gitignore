@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Java
+*.class
+/out/
+/bin/
+
+# Build tools
+/build/
+/target/
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
